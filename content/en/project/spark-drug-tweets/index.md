@@ -10,7 +10,7 @@ date: 2019-06-02T10:53:08-04:00
 weight: 20
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/pmandiola/spark-spatial-drug-tweets"
+external_link: "https://github.com/cyrusblankinship/BigData/tree/master/FinalProject_Twitter"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/pmandiola/spark-spatial-drug-tweets"
+url_code: "https://github.com/cyrusblankinship/BigData/tree/master/FinalProject_Twitter"
 url_pdf: ""
 url_slides: ""
 url_video: ""
