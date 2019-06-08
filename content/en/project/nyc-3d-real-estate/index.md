@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Access to green areas by socioeconomic status"
-summary: "Data analysis to test the hypothesis that diversity is correlated with access to green resources in NYC"
+title: "NYC Commercial Real Estate Explorer"
+summary: "A web-based application for real estate professionals to query tenant, lease, and building information across the entire NYC market."
 authors: []
 tags: []
 categories: []
-date: 2019-06-02T13:59:55-04:00
-weight: 100
+date: 2019-06-02T11:23:35-04:00
+weight: 10
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://vimeo.com/239514529"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://vimeo.com/239514529"
 url_pdf: ""
 url_slides: ""
 url_video: ""

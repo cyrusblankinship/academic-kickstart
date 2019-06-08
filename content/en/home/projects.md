@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Data science projects"
-subtitle = "Some of the projects I worked on during my master program"
+title = "Data Science & Visualization Projects"
+subtitle = "Featured projects from my professional work and graduate program"
 
 [content]
   # Page type to display. E.g. project.
