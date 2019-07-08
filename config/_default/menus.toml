@@ -23,5 +23,5 @@
 # Absolute URL to force open in a separate tab
 [[main]]
   name = "CV"
-  url = "https://pmandiola.com/files/cv.pdf"
+  url = "./files/cv.pdf"
   weight = 70
